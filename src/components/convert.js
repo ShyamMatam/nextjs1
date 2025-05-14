@@ -26,11 +26,11 @@ export default function Convert() {
               ★ {item.rating.rate}
             </span>
             <span className="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700">
-              {item.rating.count} reviews
+              {item.rating.count} rev
             </span>
           </div>
         </div>
-        
+         
       ))}
     </>
   );
