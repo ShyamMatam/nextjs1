@@ -28,6 +28,9 @@ export default function Convert() {
             <span className="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700">
               {item.rating.count} rev
             </span>
+            <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+              Convert to PDF
+            </button>
           </div>
         </div>
          
