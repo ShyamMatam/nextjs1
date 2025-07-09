@@ -5,6 +5,12 @@ export async function GET(request) {
     }));
 }
 
+// Purpose:
+// To create custom request handlers (API routes) for a given route using the Web Request and Response APIs. These are essentially backend endpoints within your Next.js application.
+// When to use:
+// When you need to handle server-side logic, interact with databases, process form submissions, or provide data to your frontend components.
+
+//==> if we have SEPARATE BACKEND SERVER(EXPRESS + NODEJS) , THEN WE DO NOT USE ROUTE HANDLERS. WE USE API ROUTES(OF BACKEND APIS) IN PAGES ROUTER.
 
 // route.js >> page.js (specificity)
 // Route Handlers in Next.js, particularly within the App Router, enable the creation of custom request handlers for specific routes using the Web Request and Response APIs. They serve as a powerful alternative to traditional API Routes (found in the Pages Router) for building server-side logic and handling various HTTP methods.
