@@ -1,0 +1,2301 @@
+[
+    {
+        "id": "uuid-ad-01",
+        "name": "Aerospace, Defence and Aviation",
+        "slug": "aerospace-defence-and-aviation",
+        "code": "AD",
+        "children": [
+            {
+                "id": "uuid-ad-02",
+                "name": "Aviation",
+                "slug": "aviation",
+                "children": [
+                    {
+                        "id": "uuid-ad-03",
+                        "name": "Commercial Aviation",
+                        "children": [
+                            {
+                                "id": "uuid-ad-04",
+                                "name": "Narrow-Body Aircraft",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-05",
+                                "name": "Wide-Body Aircraft",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-06",
+                                "name": "Regional Jets",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ad-07",
+                        "name": "General Aviation",
+                        "children": [
+                            {
+                                "id": "uuid-ad-08",
+                                "name": "Private Jets",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-09",
+                                "name": "Light Aircraft",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-10",
+                                "name": "Helicopters",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ad-11",
+                        "name": "MRO Services",
+                        "children": [
+                            {
+                                "id": "uuid-ad-12",
+                                "name": "Airframe MRO",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-13",
+                                "name": "Engine MRO",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-14",
+                                "name": "Line Maintenance",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ad-15",
+                        "name": "Airline Fleet Management",
+                        "children": [
+                            {
+                                "id": "uuid-ad-16",
+                                "name": "Leasing",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-17",
+                                "name": "Financing",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ad-18",
+                        "name": "Aircraft Leasing",
+                        "children": [
+                            {
+                                "id": "uuid-ad-19",
+                                "name": "Operating Lease",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-20",
+                                "name": "Finance Lease",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ad-21",
+                "name": "Aerospace & Defence Systems & Technologies",
+                "slug": "aerospace-and-defence-systems-and-technologies",
+                "children": [
+                    {
+                        "id": "uuid-ad-22",
+                        "name": "Military Aircraft",
+                        "children": [
+                            {
+                                "id": "uuid-ad-23",
+                                "name": "Fighters",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-24",
+                                "name": "Transport Aircraft",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-25",
+                                "name": "Reconnaissance Aircraft",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ad-26",
+                        "name": "Missiles & Defence",
+                        "children": [
+                            {
+                                "id": "uuid-ad-27",
+                                "name": "Air Defence Missiles",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-28",
+                                "name": "Anti-Tank Missiles",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Ballistic Missiles",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ad-30",
+                        "name": "Radar & Surveillance",
+                        "children": [
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Ground Radar",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Airborne Radar",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Maritime Radar",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ad-31",
+                        "name": "UAV",
+                        "children": [
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Fixed-Wing UAV",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Rotary-Wing UAV",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Hybrid UAV",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ad-32",
+                        "name": "Cyber Defence",
+                        "children": [
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Network Security",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Encryption Solutions",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Countermeasure Systems",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ad-33",
+                "name": "Airports",
+                "slug": "airports",
+                "children": []
+            },
+            {
+                "id": "uuid-ad-34",
+                "name": "Space",
+                "slug": "space",
+                "children": []
+            },
+            {
+                "id": "uuid-ad-35",
+                "name": "Aerospace & Defence Services",
+                "slug": "aerospace-and-defence-services",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "uuid-ag-01",
+        "name": "Agriculture",
+        "slug": "agriculture",
+        "code": "AG",
+        "children": [
+            {
+                "id": "uuid-ag-02",
+                "name": "Agrochemicals",
+                "slug": "agrochemicals",
+                "children": [
+                    {
+                        "id": "uuid-ag-03",
+                        "name": "Pesticides",
+                        "children": [
+                            {
+                                "id": "uuid-ag-29",
+                                "name": "Insecticides",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Fungicides",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Rodenticides",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ag-04",
+                        "name": "Herbicides",
+                        "children": [
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Selective Herbicides",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Non-Selective Herbicides",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ag-05",
+                        "name": "Fertilizers",
+                        "children": [
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Nitrogen Fertilizers",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Phosphate Fertilizers",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Potash Fertilizers",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ag-06",
+                        "name": "Herbicides",
+                        "children": [
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Bio-Pesticides",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Synthetic Chemicals",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ag-06",
+                "name": "Seeds",
+                "slug": "seeds",
+                "children": [
+                    {
+                        "id": "uuid-ag-07",
+                        "name": "Genetically Modified",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-ag-08",
+                        "name": "Conventional",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-ag-09",
+                        "name": "Hybrid",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-ag-10",
+                        "name": "Seed Treatments",
+                        "children": [
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Chemical Treatments",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ad-29",
+                                "name": "Biological Treatments",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ag-10",
+                "name": "Technology",
+                "slug": "technology",
+                "children": [
+                    {
+                        "id": "uuid-ag-11",
+                        "name": "Precision Farming",
+                        "children": [
+                            {
+                                "id": "uuid-ag-11",
+                                "name": "Sensors & IoT",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ag-11",
+                                "name": "Drones",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ag-12",
+                        "name": "Smart Irrigation",
+                        "children": [
+                            {
+                                "id": "uuid-ag-11",
+                                "name": "Drip Systems",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ag-11",
+                                "name": "Sprinklers",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ag-11",
+                        "name": "Farm Management Software",
+                        "children": [
+                            {
+                                "id": "uuid-ag-11",
+                                "name": "Crop Monitoring",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ag-11",
+                                "name": "Yield Mapping",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ag-13",
+                "name": "Machinery & Equipment",
+                "slug": "machinery-and-equipment",
+                "children": [
+                    {
+                        "id": "uuid-ag-11",
+                        "name": "Tractors",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-ag-11",
+                        "name": "Harvesters",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-ag-11",
+                        "name": "Seeding Equipment",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-ag-11",
+                        "name": "Irrigation Equipment",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ag-14",
+                "name": "Animal Nutrition",
+                "slug": "animal-nutrition",
+                "children": [
+                    {
+                        "id": "uuid-ag-11",
+                        "name": "Feed Additives",
+                        "children": [
+                            {
+                                "id": "uuid-ag-11",
+                                "name": "Amino Acids",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ag-11",
+                                "name": "Vitamins & Minerals",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-ag-11",
+                        "name": "Compound Feed",
+                        "children": [
+                            {
+                                "id": "uuid-ag-11",
+                                "name": "Poultry Feed",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ag-11",
+                                "name": "Swine Feed",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-ag-11",
+                                "name": "Aquafeed",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ag-15",
+                "name": "Commodities",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "uuid-autr-01",
+        "name": "Automotive and Transportation",
+        "slug": "automotive-and-transportation",
+        "code": "AUTR",
+        "children": [
+            {
+                "id": "uuid-autr-02",
+                "name": "Automotive",
+                "slug": "automotive",
+                "children": [
+                    {
+                        "id": "uuid-autr-03",
+                        "name": "Passenger Vehicles",
+                        "children": [
+                            {
+                                "id": "uuid-autr-03",
+                                "name": "Hatchbacks",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-03",
+                                "name": "Sedans",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-03",
+                                "name": "SUVs",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-autr-04",
+                        "name": "Commercial Vehicles",
+                        "children": [
+                            {
+                                "id": "uuid-autr-03",
+                                "name": "Light Commercial Vehicles (LCV)",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-03",
+                                "name": "Heavy Commercial Vehicles (HCV)",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-03",
+                                "name": "Buses & Coaches",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-autr-05",
+                        "name": "Electric Vehicles",
+                        "children": [
+                            {
+                                "id": "uuid-autr-03",
+                                "name": "Battery Electric Vehicles (BEV)",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-03",
+                                "name": "Plug-In Hybrid Electric Vehicles (PHEV)",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-03",
+                                "name": "Fuel Cell Electric Vehicles (FCEV)",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-autr-05",
+                        "name": "Autonomous Vehicles",
+                        "children": [
+                            {
+                                "id": "uuid-autr-03",
+                                "name": "Level 1–2 ADAS",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-03",
+                                "name": "Level 3+ Autonomous",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-autr-06",
+                "name": "Transportation",
+                "slug": "transportation",
+                "children": [
+                    {
+                        "id": "uuid-autr-07",
+                        "name": "Railways",
+                        "children": [
+                            {
+                                "id": "uuid-autr-07",
+                                "name": "Rolling Stock",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-08",
+                                "name": "Signaling Systems",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-autr-08",
+                        "name": "Marine",
+                        "children": [
+                            {
+                                "id": "uuid-autr-07",
+                                "name": "Cargo Ship",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-08",
+                                "name": "Passenger Ferries",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-autr-07",
+                        "name": "Public Transport",
+                        "children": [
+                            {
+                                "id": "uuid-autr-07",
+                                "name": "BRT Systems",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-08",
+                                "name": "Metro Systems",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-autr-08",
+                        "name": "Freight & Logistics",
+                        "children": [
+                            {
+                                "id": "uuid-autr-07",
+                                "name": "3PL Services",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-08",
+                                "name": "Last Mile Delivery",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-autr-09",
+                "name": "Telematics",
+                "slug": "telematics",
+                "children": [
+                    {
+                        "id": "uuid-autr-07",
+                        "name": "Fleet Management",
+                        "children": [
+                            {
+                                "id": "uuid-autr-07",
+                                "name": "Tracking & Monitoring",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-07",
+                                "name": "Driver Behavior Analysis",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-autr-08",
+                        "name": "Connected Car Services",
+                        "children": [
+                            {
+                                "id": "uuid-autr-07",
+                                "name": "In-Vehicle Connectivity",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-autr-07",
+                                "name": "Emergency Calling",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-autr-07",
+                        "name": "Usage-Based Insurance",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-autr-10",
+                "name": "systems-and-modules",
+                "slug": "Systems and Modules",
+                "children": []
+            },
+            {
+                "id": "uuid-autr-11",
+                "name": "Automotive Components",
+                "slug": "automotive-components",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "uuid-bt-01",
+        "name": "Biotechnology",
+        "slug": "biotechnology",
+        "code": "BT",
+        "children": [
+            {
+                "id": "uuid-bt-02",
+                "name": "Genomics",
+                "children": [
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "DNA Sequencing",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Genotyping",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "CRISPR Gene Editing",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-bt-03",
+                "name": "Cell & Gene Therapy",
+                "children": [
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Cell-Based Therapy",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Gene Therapy Vectors",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "CAR-T Therapy",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-bt-03",
+                "name": "Bioprocessing & Biomanufacturing",
+                "children": [
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Upstream Processing",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Downstream Processing",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Single-Use Technologies",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "uuid-ch-01",
+        "name": "Chemicals",
+        "slug": "chemicals",
+        "code": "CH",
+        "children": [
+            {
+                "id": "uuid-ch-02",
+                "name": "Coatings, Adhesives, Sealants & Elastomers",
+                "children": [
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Coatings",
+                        "children": [
+                            {
+                                "id": "uuid-bt-02",
+                                "name": "Powder Coatings",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-bt-02",
+                                "name": "Waterborne Coatings",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Adhesives",
+                        "children": [
+                            {
+                                "id": "uuid-bt-02",
+                                "name": "Pressure Sensitive Adhesives",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-bt-02",
+                                "name": "Reactive Adhesives",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Sealants",
+                        "children": [
+                            {
+                                "id": "uuid-bt-02",
+                                "name": "Silicone Sealants",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-bt-02",
+                                "name": "Polyurethane Sealants",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ch-03",
+                "name": "Commodity Chemicals",
+                "children": [
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Petrochemicals",
+                        "children": [
+                            {
+                                "id": "uuid-petrochem-basic",
+                                "name": "Basic Petrochemicals",
+                                "children": [
+                                    {
+                                        "id": "uuid-petrochem-basic-03",
+                                        "name": "Butadiene",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-basic-01",
+                                        "name": "Ethylene",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-basic-03",
+                                        "name": "Olefins",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-basic-02",
+                                        "name": "Propylene",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "uuid-petrochem-intermediates",
+                                "name": "Intermediates & Derivatives",
+                                "children": [
+                                    {
+                                        "id": "uuid-petrochem-int-01",
+                                        "name": "Aromatics",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-int-01",
+                                        "name": "Benzene & Toluene",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-int-02",
+                                        "name": "Styrene",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-int-03",
+                                        "name": "Xylenes",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "uuid-petrochem-polymers",
+                                "name": "Polymers",
+                                "children": [
+                                    {
+                                        "id": "uuid-petrochem-poly-01",
+                                        "name": "Polyethylene (PE)",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-poly-02",
+                                        "name": "Polypropylene (PP)",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-poly-03",
+                                        "name": "Polyvinyl Chloride (PVC)",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "uuid-petrochem-specialty",
+                                "name": "Specialty Petrochemicals",
+                                "children": [
+                                    {
+                                        "id": "uuid-petrochem-spec-01",
+                                        "name": "Performance Plastics",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-spec-02",
+                                        "name": "Engineering Thermoplastics",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-spec-03",
+                                        "name": "Synthetic Rubbers",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "uuid-petrochem-downstream",
+                                "name": "Downstream Applications",
+                                "children": [
+                                    {
+                                        "id": "uuid-petrochem-down-01",
+                                        "name": "Packaging Materials",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-down-02",
+                                        "name": "Automotive Plastics",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "uuid-petrochem-down-03",
+                                        "name": "Building & Construction Plastics",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ch-04",
+                "name": "Specialty Chemicals",
+                "children": [
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Performance Additives",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Construction Chemicals",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-bt-02",
+                        "name": "Water Treatment",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ch-04",
+                "name": "Bulk Chemicals and Inorganics",
+                "children": []
+            },
+            {
+                "id": "uuid-ch-04",
+                "name": "Equipment, Machines and Tooling",
+                "children": []
+            },
+            {
+                "id": "uuid-ch-04",
+                "name": "Green Bio Chemicals",
+                "children": []
+            },
+            {
+                "id": "uuid-ch-04",
+                "name": "Lubricants",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "uuid-cd-01",
+        "name": "Clinical Diagnostics",
+        "slug": "clinical-diagnostics",
+        "code": "CD",
+        "children": [
+        ]
+    },
+    {
+        "id": "uuid-ci-01",
+        "name": "Construction Industry",
+        "slug": "construction-industry",
+        "code": "CI",
+        "children": [
+            {
+                "id": "uuid-ci-02",
+                "name": "Residential Construction",
+                "children": [
+                    {
+                        "id": "uuid-custom-01",
+                        "name": "Single-Family Housing",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-custom-02",
+                        "name": "Multi-Family Housing",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-custom-03",
+                        "name": "Luxury Apartments",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ci-03",
+                "name": "Commercial Construction",
+                "children": [
+                    {
+                        "id": "uuid-custom-04",
+                        "name": "Office Buildings",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-custom-05",
+                        "name": "Retail & Shopping Centers",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-custom-06",
+                        "name": "Warehouses & Distribution",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ci-04",
+                "name": "Industrial Construction",
+                "children": [
+                    {
+                        "id": "uuid-custom-07",
+                        "name": "Factories & Manufacturing Plants",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-custom-08",
+                        "name": "Data Centers",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-custom-09",
+                        "name": "Power & Utility Infrastructure",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ci-05",
+                "name": "Infrastructure & Heavy Civil",
+                "children": [
+                    {
+                        "id": "uuid-custom-10",
+                        "name": "Roads & Highways",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-custom-11",
+                        "name": "Bridges & Tunnels",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-custom-12",
+                        "name": "Railways & Metros",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-ci-06",
+                "name": "Green & Sustainable Construction",
+                "children": [
+                    {
+                        "id": "uuid-custom-13",
+                        "name": "Green Building Materials",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-custom-14",
+                        "name": "Smart Building Systems",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-custom-15",
+                        "name": "Modular & Prefabricated Construction",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "uuid-cpg-01",
+        "name": "Consumer Packaged Goods and FMCG",
+        "slug": "consumer-packaged-goods-and-fmcg",
+        "code": "CPG",
+        "children": [
+            {
+                "id": "uuid-cpg-02",
+                "name": "Consumer Goods",
+                "children": [
+                    {
+                        "id": "uuid-hc-01",
+                        "name": "Personal Care Products",
+                        "children": [
+                            {
+                                "id": "uuid-hc-01-01",
+                                "name": "Skin Care",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-hc-01-02",
+                                "name": "Hair Care",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-hc-01-03",
+                                "name": "Oral Care",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-hc-02",
+                        "name": "Household Care Products",
+                        "children": [
+                            {
+                                "id": "uuid-hc-02-01",
+                                "name": "Detergents",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-hc-02-02",
+                                "name": "Cleaners",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-hc-03",
+                        "name": "Pet Care Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-hc-03",
+                        "name": "Fashion & Apparel",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-cpg-03",
+                "name": "Durables & Appliances",
+                "children": [
+                    {
+                        "id": "uuid-appl-01",
+                        "name": "Kitchen Utensils & Appliances",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-appl-02",
+                        "name": "Small Household Appliances",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-cpg-05",
+                "name": "FMCG Retail",
+                "children": [
+                    {
+                        "id": "uuid-appl-02",
+                        "name": "Trade & Retail",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "uuid-eap-01",
+        "name": "Energy and Power",
+        "code": "EAP",
+        "children": [
+            {
+                "id": "uuid-eap-02",
+                "name": "Renewable Energy",
+                "children": []
+            },
+            {
+                "id": "uuid-eap-02",
+                "name": "Oil & Gas",
+                "children": []
+            },
+            {
+                "id": "uuid-eap-02",
+                "name": "Power Generation and Equipments",
+                "children": []
+            },
+            {
+                "id": "uuid-eap-02",
+                "name": "Engines and Gensets",
+                "children": []
+            },
+            {
+                "id": "uuid-eap-02",
+                "name": "Energy Storage",
+                "children": []
+            },
+            {
+                "id": "uuid-eap-02",
+                "name": "Transmission and Distribution",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "uuid-fb-01",
+        "name": "Food and Beverages",
+        "slug": "food-and-beverages",
+        "code": "FB",
+        "children": [
+            {
+                "id": "uuid-fb-02",
+                "name": "Food",
+                "children": [
+                    {
+                        "id": "uuid-cat-01",
+                        "name": "Processed Foods",
+                        "children": [
+                            {
+                                "id": "uuid-cat-01-01",
+                                "name": "Ready Meals",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-cat-01-02",
+                                "name": "Frozen Foods",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-cat-02",
+                        "name": "Bakery & Confectionery",
+                        "children": [
+                            {
+                                "id": "uuid-cat-02-01",
+                                "name": "Bread & Baked Goods",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-cat-02-02",
+                                "name": "Chocolate & Candy",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-cat-03",
+                        "name": "Meat & Poultry",
+                        "children": [
+                            {
+                                "id": "uuid-cat-03-01",
+                                "name": "Fresh Meat",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-cat-03-02",
+                                "name": "Processed Meat",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-cat-04",
+                        "name": "Dairy",
+                        "children": [
+                            {
+                                "id": "uuid-cat-04-01",
+                                "name": "Milk",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-cat-04-02",
+                                "name": "Yogurt",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-cat-04-03",
+                                "name": "Cheese",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-fb-03",
+                "name": "Beverages",
+                "children": [
+                    {
+                        "id": "uuid-cat-05",
+                        "name": "Alcoholic",
+                        "children": [
+                            {
+                                "id": "uuid-cat-05-01",
+                                "name": "Beer",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-cat-05-02",
+                                "name": "Wine",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-cat-05-03",
+                                "name": "Spirits",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-cat-06",
+                        "name": "Non-Alcoholic",
+                        "children": [
+                            {
+                                "id": "uuid-cat-06-01",
+                                "name": "Juices",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-cat-06-02",
+                                "name": "Soft Drinks",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-cat-06-03",
+                                "name": "Bottled Water",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "uuid-fb-04",
+                "name": "Ingredients & Additives",
+                "children": [
+                    {
+                        "id": "uuid-cat-07",
+                        "name": "Flavors & Fragrances",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-cat-08",
+                        "name": "Enzymes",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-cat-09",
+                        "name": "Preservatives",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "uuid-ict",
+        "name": "Information, Communication and Technology",
+        "children": [
+            {
+                "id": "uuid-ict-analytics",
+                "name": "Analytics, IT and Cloud",
+                "children": []
+            },
+            {
+                "id": "uuid-ict-telecom",
+                "name": "Mobility & Telecom",
+                "children": []
+            },
+            {
+                "id": "uuid-ict-safety",
+                "name": "Public Safety",
+                "children": []
+            },
+            {
+                "id": "uuid-ict-software",
+                "name": "Software & Services",
+                "children": []
+            },
+            {
+                "id": "uuid-ict-equipments",
+                "name": "Equipments, Machines and Devices",
+                "children": []
+            },
+            {
+                "id": "uuid-ict-semicon",
+                "name": "Semiconductor and Electronics",
+                "children": []
+            },
+            {
+                "id": "uuid-ict-advancedtech",
+                "name": "Advanced Technologies",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "uuid-mat-01",
+        "name": "Materials",
+        "slug": "materials",
+        "code": "MAT",
+        "children": [
+            {
+                "id": "uuid-mat-07",
+                "name": "Ceramics and Glass",
+                "children": []
+            },
+            {
+                "id": "uuid-mat-08",
+                "name": "Commodity Materials",
+                "children": []
+            },
+            {
+                "id": "uuid-mat-02",
+                "name": "Fibers and Composites",
+                "children": []
+            },
+            {
+                "id": "uuid-mat-03",
+                "name": "Foam and Insulation",
+                "children": []
+            },
+            {
+                "id": "uuid-mat-04",
+                "name": "Infrastructure and Material",
+                "children": []
+            },
+            {
+                "id": "uuid-mat-06",
+                "name": "Specialty Materials",
+                "children": []
+            },
+            {
+                "id": "uuid-mat-05",
+                "name": "Yarns, Fabric and Textile",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "uuid-md-01",
+        "name": "Medical Devices",
+        "slug": "medical-devices",
+        "code": "MD",
+        "children": [
+            {
+                "id": "uuid-meddev-diagnostic",
+                "name": "Diagnostic Devices",
+                "children": [
+                    {
+                        "id": "uuid-meddev-diag-01",
+                        "name": "In Vitro Diagnostics",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-diag-02",
+                        "name": "Diagnostic Imaging",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-diag-03",
+                        "name": "Imaging Systems (MRI, CT, Ultrasound)",
+                        "children": [
+                            {
+                                "id": "uuid-medimg-01",
+                                "name": "X-ray Radiography",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-medimg-02",
+                                "name": "Fluoroscopy",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-medimg-03",
+                                "name": "Magnetic Resonance Imaging (MRI)",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-medimg-04",
+                                "name": "Medical Ultrasonography or Ultrasound",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-medimg-05",
+                                "name": "Endoscopy",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-medimg-06",
+                                "name": "Elastography",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-medimg-07",
+                                "name": "Tactile Imaging",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-medimg-08",
+                                "name": "Thermography",
+                                "children": []
+                            },
+                            {
+                                "id": "uuid-medimg-09",
+                                "name": "Positron Emission Tomography (PET)",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "uuid-meddev-diag-04",
+                        "name": "Point-of-Care Testing",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-meddev-diagnostic",
+                "name": "Healthcare IT Devices",
+                "children": []
+            },
+            {
+                "id": "uuid-meddev-diagnostic",
+                "name": "Hospital Supplies",
+                "children": [
+                    {
+                        "id": "uuid-ad-011",
+                        "name": "Hospital Beds",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-ad-011",
+                        "name": "Medical Carts",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-ad-011",
+                        "name": "Medical Apparels",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-ad-011",
+                        "name": "Surgical Tables and Accessories",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-ad-011",
+                        "name": "Operating Room and Accessories",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-meddev-diagnostic",
+                "name": "Laboratory Equipment",
+                "children": []
+            },
+            {
+                "id": "uuid-meddev-diagnostic",
+                "name": "Medical Devices",
+                "children": [
+                    {
+                        "id": "uuid-disposable-01",
+                        "name": "Cardiology Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-02",
+                        "name": "Infusion Disposable Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-03",
+                        "name": "Surgical Disposables Products Market",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-04",
+                        "name": "Endoscopy Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-05",
+                        "name": "Anesthesia and Respiratory Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-06",
+                        "name": "General Surgery",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-07",
+                        "name": "Gynaecology and Paediatric Disposable Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-08",
+                        "name": "Non Woven Disposable Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-09",
+                        "name": "Blood Collection and Associated Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-10",
+                        "name": "Gastroenterology Disposables",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-11",
+                        "name": "Disposable Urology Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-12",
+                        "name": "Ophthalmic Disposable Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-13",
+                        "name": "ENT Disposable Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-14",
+                        "name": "Disposable Colostomy Bags & Products",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-disposable-15",
+                        "name": "Disposable Dental Products",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-meddev-monitoring",
+                "name": "Monitoring Devices",
+                "children": [
+                    {
+                        "id": "uuid-meddev-mon-01",
+                        "name": "Patient Monitoring",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-mon-02",
+                        "name": "Monitoring Devices",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-mon-03",
+                        "name": "Wearables & Remote Monitoring",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-mon-04",
+                        "name": "Homecare Monitoring",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-meddev-support",
+                "name": "Supportive Devices & Other Areas",
+                "children": [
+                    {
+                        "id": "uuid-meddev-supp-01",
+                        "name": "Ophthalmic Devices",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-supp-02",
+                        "name": "Anesthesia and Respiratory Devices",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-supp-03",
+                        "name": "Wound Care Management",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-meddev-surgical",
+                "name": "Surgical Instruments & Consumables",
+                "children": [
+                    {
+                        "id": "uuid-meddev-surg-02",
+                        "name": "General Surgery Instruments",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-surg-03",
+                        "name": "Endoscopy Instruments",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-surg-04",
+                        "name": "Disposable Surgical Supplies",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-meddev-therapeutic",
+                "name": "Therapeutic Devices",
+                "children": [
+                    {
+                        "id": "uuid-meddev-thera-01",
+                        "name": "Cardiovascular Devices",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-thera-02",
+                        "name": "Orthopedic Devices & Implants",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-thera-03",
+                        "name": "Neurology Devices",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-thera-04",
+                        "name": "ENT Devices",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-thera-05",
+                        "name": "Drug Delivery Devices",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-thera-06",
+                        "name": "Dental Devices",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-thera-07",
+                        "name": "Diabetes Care",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-thera-08",
+                        "name": "Hematology",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-thera-09",
+                        "name": "Gastrointestinal",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-thera-10",
+                        "name": "Vascular Access Devices",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-thera-11",
+                        "name": "Nephrology and Urology Devices",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-meddev-thera-12",
+                        "name": "Pediatric Care",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "uuid-metals-01",
+        "name": "Metals & Mining",
+        "slug": "metals-mining",
+        "code": "MET",
+        "children": [
+            {
+                "id": "uuid-metals-04",
+                "name": "Alloys",
+                "children": []
+            },
+            {
+                "id": "uuid-metals-02",
+                "name": "Commodity Metals and Minerals",
+                "children": []
+            },
+            {
+                "id": "uuid-metals-05",
+                "name": "Mining, Equipment and Services",
+                "children": []
+            },
+            {
+                "id": "uuid-metals-01",
+                "name": "Rare Earth Metals and Minerals",
+                "children": []
+            },
+            {
+                "id": "uuid-metals-03",
+                "name": "Specialty Metals and Minerals",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "uuid-pack-01",
+        "name": "Packaging",
+        "slug": "packaging",
+        "code": "PACK",
+        "children": [
+            {
+                "id": "uuid-pack-04",
+                "name": "Packaging and Allied",
+                "children": []
+            },
+            {
+                "id": "uuid-pack-05",
+                "name": "Packaging Equipment",
+                "children": []
+            },
+            {
+                "id": "uuid-pack-06",
+                "name": "Packaging Materials",
+                "children": []
+            },
+            {
+                "id": "uuid-pack-07",
+                "name": "Packaging Technology and Processes",
+                "children": []
+            },
+            {
+                "id": "uuid-pack-01",
+                "name": "Flexible Packaging",
+                "children": [
+                    {
+                        "id": "uuid-pack-01-02",
+                        "name": "Films",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pack-01-01",
+                        "name": "Pouches",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-pack-02",
+                "name": "Rigid Packaging",
+                "children": [
+                    {
+                        "id": "uuid-pack-02-01",
+                        "name": "Bottles",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pack-02-02",
+                        "name": "Jars",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-pack-03",
+                "name": "Sustainable Packaging",
+                "children": [
+                    {
+                        "id": "uuid-pack-03-02",
+                        "name": "Compostable",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pack-03-01",
+                        "name": "Recyclable",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "uuid-ph-01",
+        "name": "Pharmaceuticals",
+        "slug": "pharmaceuticals",
+        "code": "PH",
+        "children": [
+            {
+                "id": "uuid-pharma-therapeutic",
+                "name": "Therapeutic Segments",
+                "children": [
+                    {
+                        "id": "uuid-pharma-thera-01",
+                        "name": "Cardiovascular",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-thera-02",
+                        "name": "Oncology",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-thera-03",
+                        "name": "Infectious Diseases",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-thera-04",
+                        "name": "Central Nervous System (CNS)",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-thera-05",
+                        "name": "Respiratory Disorders",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-thera-06",
+                        "name": "Gastrointestinal Disorders",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-pharma-drugtypes",
+                "name": "Drug Types",
+                "children": [
+                    {
+                        "id": "uuid-pharma-drug-01",
+                        "name": "Branded Drugs",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-drug-02",
+                        "name": "Generic Drugs",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-drug-03",
+                        "name": "OTC Drugs",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-pharma-dosageforms",
+                "name": "Dosage Forms",
+                "children": [
+                    {
+                        "id": "uuid-pharma-dose-01",
+                        "name": "Tablets & Capsules",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-dose-02",
+                        "name": "Injectables & Infusions",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-dose-03",
+                        "name": "Topical & Transdermal",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-pharma-biologics",
+                "name": "Biologics & Biosimilars",
+                "children": [
+                    {
+                        "id": "uuid-pharma-bio-01",
+                        "name": "Monoclonal Antibodies",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-bio-02",
+                        "name": "Vaccines",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-bio-03",
+                        "name": "Recombinant Proteins",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-pharma-conditions",
+                "name": "Disease Areas & Disorders",
+                "children": [
+                    {
+                        "id": "uuid-pharma-cond-01",
+                        "name": "Dermatology",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-02",
+                        "name": "Ear Nose Throat Disorders",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-03",
+                        "name": "Genitourinary Disorders",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-04",
+                        "name": "Hematology",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-05",
+                        "name": "Hormonal Disorders",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-06",
+                        "name": "Immunology",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-07",
+                        "name": "Metabolic Disorder",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-08",
+                        "name": "Diabetes Care",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-09",
+                        "name": "Mouth And Dental Disorders",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-10",
+                        "name": "Pain Management",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-11",
+                        "name": "Musculoskeletal",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-12",
+                        "name": "Neurology",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-13",
+                        "name": "Non-Malignant Disorders",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-14",
+                        "name": "Nutritional Disorders",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-15",
+                        "name": "Ophthalmology",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-16",
+                        "name": "Other Diseases",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-17",
+                        "name": "Allergy Diagnostics",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-18",
+                        "name": "Women's and Male Health",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-19",
+                        "name": "Wound Care Treatment",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-pharma-cond-20",
+                        "name": "Syndrome",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "uuid-vh-01",
+        "name": "Veterinary Health",
+        "slug": "veterinary-health",
+        "code": "vh",
+        "children": [
+            {
+                "id": "uuid-vh-02",
+                "name": "Veterinary Drugs and Vaccines",
+                "children": []
+            },
+            {
+                "id": "uuid-vh-02",
+                "name": "Veterinary Medical Devices",
+                "children": []
+            },
+            {
+                "id": "uuid-vh-02",
+                "name": "Veterinary Medical Imaging",
+                "children": []
+            },
+            {
+                "id": "uuid-vh-02",
+                "name": "Veterinary Medical Supplements",
+                "children": []
+            },
+            {
+                "id": "uuid-vh-02",
+                "name": "Veterinary Surgical Equipment",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "uuid-w-01",
+        "name": "Water",
+        "slug": "water",
+        "code": "W",
+        "children": [
+            {
+                "id": "uuid-w-02",
+                "name": "Water Treatment",
+                "children": [
+                    {
+                        "id": "uuid-water-01",
+                        "name": "Industrial Water Treatment",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-water-02",
+                        "name": "Municipal Water Treatment",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-water-03",
+                        "name": "Desalination Systems",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-w-03",
+                "name": "Water Filtration & Purification",
+                "children": [
+                    {
+                        "id": "uuid-watertech-01",
+                        "name": "Reverse Osmosis Systems",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-watertech-02",
+                        "name": "UV Filtration Systems",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-watertech-03",
+                        "name": "Activated Carbon Filtration",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-w-04",
+                "name": "Water Supply & Distribution",
+                "children": [
+                    {
+                        "id": "uuid-waterinfra-01",
+                        "name": "Pipe Networks",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-waterinfra-02",
+                        "name": "Pumps & Valves",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-waterinfra-03",
+                        "name": "Smart Water Management",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "uuid-w-05",
+                "name": "Wastewater Treatment",
+                "children": [
+                    {
+                        "id": "uuid-wastewater-01-01",
+                        "name": "Sewage Treatment Plants (STPs)",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-wastewater-01-02",
+                        "name": "Effluent Treatment Plants (ETPs)",
+                        "children": []
+                    },
+                    {
+                        "id": "uuid-wastewater-01-03",
+                        "name": "Sludge Management Solutions",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "uuid-ot-01",
+        "name": "Others",
+        "slug": "others",
+        "code": "OT",
+        "children": [
+            {
+                "id": "uuid-ot-02",
+                "name": "Others",
+                "slug": "others",
+                "children": []
+            }
+        ]
+    }
+]

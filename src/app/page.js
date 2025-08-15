@@ -12,10 +12,10 @@ export default function Home() {
   return (
     <div>
       <Suspense fallback={<Loading />}>
-        <Nav />
-        <User />
+        {/* <Nav /> */}
+        {/* <User /> */}
         {/* <Convert /> */}
-        <Api />
+        {/* <Api /> */}
       </Suspense>
     </div>
   );

@@ -10,4 +10,4 @@ const Error = () => {
 }
 
 export default Error
-// This error page is used for the @analytics route in the parallel routes example
+// This error page is used for the @analytics route in the parallel routes exampleg
