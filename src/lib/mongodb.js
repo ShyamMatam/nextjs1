@@ -1,7 +1,7 @@
 // mongodb.js - Database connection helper
 import { MongoClient } from 'mongodb';
 
-const uri = process.env.MONGODB_URI || 'mongodb+srv://matamshyam01:cluster0@cluster0.y7kaxci.mongodb.net/Auth-dmi?retryWrites=true&w=majority';
+const uri = process.env.MONGODB_URI;
 
 let client;
 let clientPromise;
