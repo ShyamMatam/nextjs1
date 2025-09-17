@@ -69,6 +69,7 @@ export default function LazyLoadingPage() {
                             <li>• Reduces initial bundle size and improves page load time</li>
                             <li>• Uses React.lazy() and Suspense for smooth loading</li>
                             <li>• Fallback UI is shown while component loads</li>
+                            <li> In Reactjs we use Lazy, Suspense and in Nextjs we use Dynamic</li>
                         </ul>
                     </div>
                 </div>
